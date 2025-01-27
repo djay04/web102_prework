@@ -23,7 +23,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://www.loom.com/share/029641d99f1a411caf04bef2fd95372c?sid=c123f8b1-67ac-4ecc-82e7-7574a35f193b" 
+  title="Video Walkthrough" 
+  width="600" 
+  alt="Video Walkthrough" 
+/>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
