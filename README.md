@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://www.loom.com/share/029641d99f1a411caf04bef2fd95372c?sid=c123f8b1-67ac-4ecc-82e7-7574a35f193b" alt="Video Walkthrough" width="600" />
+<iframe src="https://www.loom.com/embed/029641d99f1a411caf04bef2fd95372c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="600" height="400"></iframe>
 
 
 
