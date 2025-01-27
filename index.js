@@ -24,11 +24,11 @@ function deleteChildElements(parent) {
 */
 
 // grab the element with the id games-container
+const gamesContainer = document.getElementById("games-container");
 
 // create a function that adds all data from the games array to the page
 function addGamesToPage(games) {
 
-    const gamesContainer = document.getElementById("games-container");
 
     // loop over each item in the data
 
@@ -44,7 +44,7 @@ function addGamesToPage(games) {
         g_card.innerHTML = ` 
         <img src="${game.img}" alt="${game.name}" class="game-img">
         <h5>${game.name}</h5>
-        <p>${game.about}</p>`;
+        <p>${game.description}</p>`;
 
         gamesContainer.appendChild(g_card);
     }

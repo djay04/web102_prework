@@ -23,7 +23,7 @@ body {
     padding: 2%;
     flex-direction: row;
     justify-content: center;
-    align-items: stretch;
+    align-items: center;
     display: flex;
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
