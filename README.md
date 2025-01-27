@@ -23,10 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="600" height="400" controls>
-  <source src="https://example.com/your-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://www.loom.com/share/029641d99f1a411caf04bef2fd95372c?sid=918b825d-3f36-4aa4-a157-ee88af3430bb
 
 
 
