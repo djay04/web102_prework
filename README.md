@@ -23,11 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="600" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1pkT_MJYwZjGTsEZgdoVWPwZqViuDR86D" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://www.loom.com/share/029641d99f1a411caf04bef2fd95372c?sid=506246d4-d81e-4d11-b561-06e82b840715
 
 
 
